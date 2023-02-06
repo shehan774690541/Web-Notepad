@@ -7,3 +7,8 @@ This is a small notepad. Js is a simple web application created using html and c
 
 <h2>What is it used for?</h2>
 Also as an emoji panel for a chat box.  As a keyboard within a web page and for a comment box.  can be used  You can use this to insert an emoji into a sentence
+
+<h2>Programming Languages</h2>
+<li><b>HTML</b></li>
+<li><b>CSS</b></li>
+<li><b>Java Script</b></li>
