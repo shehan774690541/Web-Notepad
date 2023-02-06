@@ -19,3 +19,12 @@ Also as an emoji panel for a chat box.  As a keyboard within a web page and for 
 <li>type your comment and click on emogi</li>
 <li>clear the chat for the press <b>clear button</b></li>
 <li>press on copy button. you can copy your text</li>
+
+<h2>Desktop view</h2>
+<img src="images/1.png" width 100%>
+
+<h2>Tablet view</h2>
+<img src="images/2.png" width 100%>
+
+<h2>Mobile view</h2>
+<img src="images/3.png" width 100%>
