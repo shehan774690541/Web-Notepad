@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.alias {cursor: alias;}
+.all-scroll {cursor: all-scroll;}
+.auto {cursor: auto;}
+.cell {cursor: cell;}
+.col-resize {cursor: col-resize;}
+.context-menu {cursor: context-menu;}
+.copy {cursor: copy;}
+.crosshair {cursor: crosshair;}
+.default {cursor: default;}
+.e-resize {cursor: e-resize;}
+.ew-resize {cursor: ew-resize;}
+.grab {cursor: grab;}
+.grabbing {cursor: grabbing;}
+.help {cursor: help;}
+.move {cursor: move;}
+.n-resize {cursor: n-resize;}
+.ne-resize {cursor: ne-resize;}
+.nesw-resize {cursor: nesw-resize;}
+.ns-resize {cursor: ns-resize;}
+.nw-resize {cursor: nw-resize;}
+.nwse-resize {cursor: nwse-resize;}
+.no-drop {cursor: no-drop;}
+.none {cursor: none;}
+.not-allowed {cursor: not-allowed;}
+.pointer {cursor: pointer;}
+.progress {cursor: progress;}
+.row-resize {cursor: row-resize;}
+.s-resize {cursor: s-resize;}
+.se-resize {cursor: se-resize;}
+.sw-resize {cursor: sw-resize;}
+.text {cursor: text;}
+/* .url {cursor: url(myBall.cur),auto;} */
+.w-resize {cursor: w-resize;}
+.wait {cursor: wait;}
+.zoom-in {cursor: zoom-in;}
+.zoom-out {cursor: zoom-out;}
+
+.background{
+    background-color: rgb(28, 38, 41);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    text-align: center;
+}
+.tb{
+    width: 60vw;
+    height: 214px;
+    margin-top: 15px;
+    border-radius: 1rem;
+    padding: 10px;
+    /* border-color: rgb(0, 0, 0); */
+    border: 2px;
+    border-color: rgb(0, 136, 255);
+    color: aliceblue;
+    border-style: solid;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(87, 87, 87, 0.301);
+}
+.emogiRow{
+    width: 80vw;
+    margin-top: 20px;
+    background-color: rgba(240, 248, 255, 0.219);
+    padding: 5px;
+    border-radius: .8rem;
+}
+.emogiRow span{
+    font-size: 23px;
+    /* background-color: rgba(255, 255, 255, 0.253); */
+    transition: 0.2s ease;
+    padding: 2px;
+    
+}
+.emogiRow span:hover{
+    font-size: 23px;
+    transition: 0.2s ease;
+    margin-top: 0px;
+}
+.btns{
+    margin: 20px;
+}
+.btns .txtbutton{
+    padding: 10px;
+    width: 6rem;
+    border-style: solid;
+    border-radius: 1rem;
+    background-color: rgba(240, 248, 255, 0);
+    border-color: aliceblue;
+    color: aliceblue;
+    margin: 10px;
+    transition: 0.5s easy;
+}
+.btns .txtbutton:hover{
+    color: rgb(0, 136, 255);
+    background-color: aliceblue;
+    transition: 0.5s easy;
+    border-color: rgb(0, 136, 255);
+
+}
+.status{
+    width: 100%;
+    background-color: rgba(240, 248, 255, 0.185);
+    height: 10px;
+    margin-top: 50px;
+    color: aliceblue;
+    text-align: left;
+    padding: 10px;   
+    display: flex;
+}
